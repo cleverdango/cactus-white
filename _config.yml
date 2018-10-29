@@ -2,9 +2,9 @@ nav:
   Home: /
   About: /about/
   Writing: /posts/
-  Projects: http://github.com/sergodeeva
+  Projects: https://github.com/cleverdango
 
-projects_url: http://github.com/sergodeeva
+projects_url: https://github.com/cleverdango
 
 customize:
     gravatar:
@@ -27,9 +27,9 @@ customize:
         url: /images/apple-touch-icon.png
         gravator: false
     social_links:
-        github: http://github.com/sergodeeva
+        github: https://github.com/cleverdango
         facebook: /
-        linkedin: https://www.linkedin.com/in/natalyakosenko/
+        linkedin: /
     show_all_posts: false
     post_count: 10
     highlight: pojoaque
